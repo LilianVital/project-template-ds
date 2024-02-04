@@ -32,6 +32,7 @@ With the aim of creating a reproducible structure, this repository contains a st
 │   ├── evaluate_model.py           <- Model evaluation
 │   ├── process.py                  <- Process data before training model   
 │   └── train_model.py              <- Train model
+│
 │── tests                 
 │    ├── __init__.py                <- Make tests a Python module 
 │    ├── test_process.py            <- Test functions for process.py
