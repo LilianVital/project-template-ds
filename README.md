@@ -33,11 +33,6 @@ With the aim of creating a reproducible structure, this repository contains a st
 │   ├── process.py                  <- Process data before training model   
 │   └── train_model.py              <- Train model
 │
-│── tests                 
-│    ├── __init__.py                <- Make tests a Python module 
-│    ├── test_process.py            <- Test functions for process.py
-│    └── test_train_model.py        <- Test functions for train_model.py
-│
 ├── pyproject.toml                  <- Dependencies for poetry
 │
 └── requirements.txt                <- The requirements file for reproducing the analysis environment, e.g.
